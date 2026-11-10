@@ -7,4 +7,5 @@ xgboost
 scikit-learn
 matplotlib
 dill
+Flask
 #-e .
